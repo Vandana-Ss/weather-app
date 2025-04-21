@@ -17,7 +17,7 @@ body::before {
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url('https://cdn.pixabay.com/photo/2023/12/20/07/04/clouds-8459053_1280.jpg');
+    background-image: url('assets/bg.png');
     background-size: cover;
     background-position: top center;
     z-index: -1;
